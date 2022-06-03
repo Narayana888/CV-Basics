@@ -1,0 +1,21 @@
+img {
+  width: 100px;
+  height: auto;
+}
+a {
+  color: blue;
+}
+label,input{
+  margin-bottom: 5px;
+}
+/* td,
+tr,
+thead,
+table,
+th {
+  border: 1px black solid;
+}
+
+td,tr,thead,th{
+    padding: 5px;
+} */
